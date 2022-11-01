@@ -2,8 +2,6 @@
 title: Home
 ---
 
-# Bednar Laboratory
-
 Our work focuses on epigenetic regulation of pancreatic neoplasia and signaling within the tumor microenvironment. Stay tuned as we rebuild our website for future announcements.
 
 {%
