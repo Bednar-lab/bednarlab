@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Bednar Laboratory
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our work focuses on epigenetic regulation of pancreatic neoplasia and signaling within the tumor microenvironment. Stay tuned as we rebuild our website for future announcements.
 
 {%
   include link.html
