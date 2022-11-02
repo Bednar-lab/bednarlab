@@ -13,18 +13,9 @@ Our lab is part of the [Department of Surgery](https://medicine.umich.edu/dept/s
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="filipb@med.umich.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  link="filipb@med.umich.edu"
   style="button"
 %}
 {%
