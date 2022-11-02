@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Surgery](https://medicine.umich.edu/dept/surgery), at the [University of Michigan School of Medicine](https://medicine.umich.edu/medschool/home). We are also part of the [Cancer Biology Program](https://medicine.umich.edu/dept/cancer-biology) and are located on the 6th floor of the [Rogel Cancer Center](https://www.rogelcancercenter.org/).
 
 {%
   include link.html
@@ -34,7 +33,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="[https://www.google.com/maps/place/Rogel+Cancer+Center/@42.284437,-83.7335821,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae688d408bd1:0x661f3166bdcded71!8m2!3d42.2844331!4d-83.7313934]"
   style="button"
 %}
 {:.center}
@@ -43,9 +42,10 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+6110 Rogel Cancer Center
+1500 East Medical Center Drive
+Ann Arbor, MI 48105
+United States of America
 {:.center}
 
 {% capture col1 %}
