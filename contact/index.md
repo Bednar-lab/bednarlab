@@ -33,24 +33,24 @@ Our lab is part of the [Department of Surgery](https://medicine.umich.edu/dept/s
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-6110 Rogel Cancer Center
-1500 East Medical Center Drive
-Ann Arbor, MI 48105
+6110 Rogel Cancer Center, 
+1500 East Medical Center Drive, 
+Ann Arbor, MI 48105, 
 United States of America
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/UM_Medical_Campus_Aerial.jpg"
+  caption="University of Michigan Medical Center"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/CC-Exterior-Web-2.jpg"
+  caption="Rogel Cancer Center"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
