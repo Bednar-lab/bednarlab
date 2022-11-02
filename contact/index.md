@@ -33,7 +33,7 @@ Our lab is part of the [Department of Surgery](https://medicine.umich.edu/dept/s
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps/place/Rogel+Cancer+Center/@42.284437,-83.7335821,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae688d408bd1:0x661f3166bdcded71!8m2!3d42.2844331!4d-83.7313934]"
+  link="https://www.google.com/maps/place/Rogel+Cancer+Center/@42.284437,-83.7335821,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae688d408bd1:0x661f3166bdcded71!8m2!3d42.2844331!4d-83.7313934"
   style="button"
 %}
 {:.center}
