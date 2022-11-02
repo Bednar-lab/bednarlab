@@ -42,7 +42,7 @@ United States of America
 {% capture col1 %}
 {%
   include figure.html
-  image="images/UM_Medical_Campus_Aerial.jpg"
+  image="images/UM_Medical_Campus_Aerial_2.jpg"
   caption="University of Michigan Medical Center"
 %}
 {% endcapture %}
